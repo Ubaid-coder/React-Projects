@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+label{
+  padding: 0px 10px;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.newItems{
+  background-color: #f0e9e9;
+}
+
+#btn{
+  margin: 0px 5px;
+}
